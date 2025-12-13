@@ -226,7 +226,7 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         {
             question: "Combien de membres maximum par organisation criminelle ?",
-            options: ["25", "20", "15", "10"],
+            options: ["25", "15", "20", "10"],
             correct: 2,
             rule: "3.1 - Organisations Criminelles"
         },
