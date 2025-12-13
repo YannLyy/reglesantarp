@@ -574,11 +574,6 @@ body.dark-mode .highlight {
     border: 2px solid var(--blue-light);
 }
 
-.staff-card.owner {
-    background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
-    border-color: #f59e0b;
-}
-
 .staff-card:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 25px var(--shadow-hover);
