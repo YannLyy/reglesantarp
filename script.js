@@ -226,20 +226,15 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         {
             question: "Combien de membres maximum par organisation criminelle ?",
-            options: ["5", "6", "8", "10"],
+            options: ["25", "20", "15", "10"],
             correct: 2,
             rule: "3.1 - Organisations Criminelles"
         },
         {
-            question: "Qu'est-ce que le NLR (New Life Rule) ?",
-            options: [
-                "Une nouvelle règle ajoutée",
-                "Oublier sa vie précédente après la mort",
-                "Ne pas tuer sans raison",
-                "Respecter les zones"
-            ],
+            question: "Combien de membres maximum par organisation criminelle sur une scène ?",
+            options: ["25", "15", "20", "10"],
             correct: 1,
-            rule: "3.5 - Règles de Combat"
+            rule: "3.1 - Organisations Criminelles"
         }
     ];
     
