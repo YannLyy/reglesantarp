@@ -196,7 +196,7 @@ document.addEventListener('DOMContentLoaded', function() {
             rule: "3.2 - Braquages"
         },
         {
-            question: "Le PowerRP c'est quoi ?",
+            question: "Le WinRP c'est quoi ?",
             options: [
                 "Être très fort en RP",
                 "Forcer des actions sans laisser le choix",
