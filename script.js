@@ -185,7 +185,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const quizQuestions = [
         {
             question: "Combien de temps minimum de RP avant un braquage de joueur ?",
-            options: ["2 minutes", "5 minutes", "10 minutes", "Pas de minimum"],
+            options: ["20 minutes", "30 minutes", "10 minutes", "Pas de minimum"],
             correct: 1,
             rule: "1.2 - Roleplay"
         },
